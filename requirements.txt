@@ -7,7 +7,7 @@ dotenv
 load_dotenv
 embedder
 utils
-langchain.chains
+langchain
 RetrievalQA
 langchain_community.llms
 OpenAI
