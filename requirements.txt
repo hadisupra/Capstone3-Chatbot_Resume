@@ -18,7 +18,6 @@ langchain_core
 tool
 langchain
 tiktoken
-get_encoding
 langchain 
 initialize_agent 
 langgraph
