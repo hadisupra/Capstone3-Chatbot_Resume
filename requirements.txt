@@ -5,7 +5,6 @@ streamlit
 tiktoken
 dotenv
 load_dotenv
-embedder
 utils
 langchain
 langchain_community
