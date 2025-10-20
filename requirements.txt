@@ -17,7 +17,6 @@ Distance
 langchain_core
 tool
 langchain
-initialize_agent
 AgentType
 tiktoken
 get_encoding
