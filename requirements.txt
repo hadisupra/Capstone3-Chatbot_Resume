@@ -29,7 +29,6 @@ pandas
 pd
 tiktoken
 langchain_text_splitters
-CharacterTextSplitter
 langchain
 RecursiveCharacterTextSplitter
 
