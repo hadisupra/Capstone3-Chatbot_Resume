@@ -15,9 +15,8 @@ qdrant_client
 Distance
 langchain_core
 tool
-langchain
+langchain>=0.0.300
 tiktoken
-langchain 
 langgraph
 langchain_core
 langchain_core
@@ -28,5 +27,4 @@ pandas
 pd
 tiktoken
 langchain_text_splitters
-langchain
 scikit-learn
