@@ -21,7 +21,7 @@ from embedder import get_embedder
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import VectorParams, Distance
 from langchain_core.tools import tool
-from langchain.agents import initialize_agent, AgentType
+# from langchain.agents import initialize_agent, AgentType
 
 texts = load_and_chunk_csv("RESUME.csv", chunk_size=100)
 
