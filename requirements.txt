@@ -7,7 +7,6 @@ dotenv
 load_dotenv
 embedder
 utils
-load_and_chunk_csv
 langchain.chains
 RetrievalQA
 langchain_community.llms
