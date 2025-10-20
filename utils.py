@@ -1,4 +1,4 @@
-import pandas as pd
+# import pandas as pd
 import tiktoken
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
