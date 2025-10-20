@@ -17,12 +17,10 @@ Distance
 langchain_core
 tool
 langchain
-AgentType
 tiktoken
 get_encoding
 langchain 
 initialize_agent 
-AgentType
 langgraph
 create_react_agent
 langchain_core
