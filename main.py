@@ -11,7 +11,7 @@ import asyncio
 # from openai import api_key
 # import st
 from streamlit import text_input
-import tiktoken
+# import tiktoken
 from dotenv import load_dotenv
 from embedder import get_embedder
 from utils import load_and_chunk_csv
