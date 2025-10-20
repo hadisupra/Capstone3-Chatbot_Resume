@@ -15,5 +15,5 @@ OpenAI
 Distance
 langchain_core>=0.3.75,<2.0.0
 tool
-langchain==0.0.300
+langchain
 langchain_openai
