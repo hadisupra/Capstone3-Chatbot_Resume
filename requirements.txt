@@ -1,6 +1,5 @@
 langgraph
 openai
-api_key
 st
 streamlit
 text_input
