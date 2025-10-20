@@ -9,16 +9,15 @@ embedder
 utils
 langchain
 langchain_community
-llms
 OpenAI
-langchain_community.vectorstores
+langchain_community
 Qdrant
 qdrant_client
 QdrantClient
-qdrant_client.http.models
+qdrant_client
 VectorParams
 Distance
-langchain_core.tools
+langchain_core
 tool
 langchain.agents
 initialize_agent
@@ -30,15 +29,15 @@ initialize_agent
 AgentType
 langgraph.prebuilt
 create_react_agent
-langchain_core.messages
+langchain_core
 SystemMessage
-langchain_core.messages
+langchain_core
 HumanMessage
 streamlit
 st
 langchain_openai
 ChatOpenAI
-langchain_core.messages
+langchain_core
 HumanMessage
 AIMessage
 pandas
@@ -46,6 +45,6 @@ pd
 tiktoken
 langchain_text_splitters
 CharacterTextSplitter
-langchain.text_splitter
+langchain
 RecursiveCharacterTextSplitter
 
