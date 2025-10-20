@@ -1,6 +1,8 @@
 import pandas as pd
 import tiktoken
-from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+#from langchain_text_splitters import CharacterTextSplitter, RecursiveCharacterTextSplitter
 #from langchain.text_splitters import RecursiveCharacterTextSplitter
 MAX_TOKENS = 4096
 
