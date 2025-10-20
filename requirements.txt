@@ -6,7 +6,6 @@ tiktoken
 dotenv
 load_dotenv
 embedder
-get_embedder
 utils
 load_and_chunk_csv
 langchain.chains
