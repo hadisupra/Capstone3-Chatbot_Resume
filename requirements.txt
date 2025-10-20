@@ -24,7 +24,6 @@ langchain_core
 langchain_core
 streamlit
 langchain_openai
-ChatOpenAI
 langchain_core
 AIMessage
 pandas
