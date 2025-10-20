@@ -21,7 +21,6 @@ tiktoken
 langchain 
 langgraph
 langchain_core
-SystemMessage
 langchain_core
 HumanMessage
 streamlit
