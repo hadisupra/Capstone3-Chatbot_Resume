@@ -30,5 +30,3 @@ pd
 tiktoken
 langchain_text_splitters
 langchain
-RecursiveCharacterTextSplitter
-
