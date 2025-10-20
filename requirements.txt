@@ -6,7 +6,6 @@ tiktoken
 dotenv
 load_dotenv
 utils
-langchain
 langchain_community
 OpenAI
 langchain_community
@@ -15,7 +14,7 @@ qdrant_client
 Distance
 langchain_core
 tool
-langchain>=0.0.300
+langchain==0.0.300
 tiktoken
 langgraph
 langchain_core
