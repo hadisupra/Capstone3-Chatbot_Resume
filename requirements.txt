@@ -2,7 +2,6 @@ langgraph
 openai
 st
 streamlit
-text_input
 tiktoken
 dotenv
 load_dotenv
