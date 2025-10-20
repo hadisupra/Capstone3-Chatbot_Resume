@@ -8,7 +8,8 @@ load_dotenv
 embedder
 utils
 langchain
-langchain_community.llms
+langchain_community
+llms
 OpenAI
 langchain_community.vectorstores
 Qdrant
