@@ -27,3 +27,4 @@ pd
 tiktoken
 langchain_text_splitters
 scikit-learn
+langchain_text_splitters
