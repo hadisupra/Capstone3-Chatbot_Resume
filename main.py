@@ -1,4 +1,5 @@
 import os
+import utils
 #import langgraph
 import streamlit as st
 import asyncio
@@ -14,7 +15,7 @@ from streamlit import text_input
 import tiktoken
 from dotenv import load_dotenv
 from embedder import get_embedder
-# from utils import load_and_chunk_csv
+from utils import load_and_chunk_csv
 # from langchain.chains import RetrievalQA
 # from langchain_community.llms import OpenAI
 # from langchain_community.vectorstores import Qdrant
