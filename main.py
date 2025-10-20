@@ -16,8 +16,8 @@ from dotenv import load_dotenv
 from embedder import get_embedder
 # from utils import load_and_chunk_csv
 # from langchain.chains import RetrievalQA
-from langchain_community.llms import OpenAI
-from langchain_community.vectorstores import Qdrant
+# from langchain_community.llms import OpenAI
+# from langchain_community.vectorstores import Qdrant
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import VectorParams, Distance
 from langchain_core.tools import tool
