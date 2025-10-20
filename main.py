@@ -12,7 +12,7 @@ import asyncio
 # import st
 from streamlit import text_input
 # import tiktoken
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from embedder import get_embedder
 from utils import load_and_chunk_csv
 from langchain.chains import RetrievalQA
