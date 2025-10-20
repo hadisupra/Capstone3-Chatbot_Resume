@@ -5,23 +5,16 @@ tiktoken
 dotenv
 load_dotenv
 utils
-langchain_community
+langchain_community>=0.0.17,<0.0.20
 OpenAI
-qdrant_client
 qdrant_client
 Distance
 langchain_core
 tool
 langchain==0.0.300
-tiktoken
-langchain_core
-langchain_core
-streamlit
 langchain_openai
-langchain_core
 pandas
 pd
-tiktoken
 scikit-learn
 langchain_text_splitters
 
