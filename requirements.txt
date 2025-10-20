@@ -12,7 +12,6 @@ langchain_community
 OpenAI
 langchain_community
 qdrant_client
-QdrantClient
 qdrant_client
 VectorParams
 Distance
