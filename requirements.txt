@@ -11,7 +11,7 @@ langchain
 langchain_community
 OpenAI
 langchain_community
-Qdrant
+Qdrant V1.10.0
 qdrant_client
 QdrantClient
 qdrant_client
