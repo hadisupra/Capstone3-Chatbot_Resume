@@ -15,4 +15,4 @@ Distance
 langchain_core>=0.3.75,<2.0.0
 tool
 langchain
-langchain_openai
+langchain_openai<=0.1.8
