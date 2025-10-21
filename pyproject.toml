@@ -15,9 +15,9 @@ dependencies = [
     "numpy ==1.26.0",
 
 
-    "pandas ==2.0.3",
+    # "pandas ==2.0.3",
 
-    # "pandas==1.5.3",  # stable wheel for Python 3.11
+    "pandas==1.5.3",  # stable wheel for Python 3.11
     # "tiktoken" removed to avoid Rust build
     "langchain-community==0.0.38",
     "langchain-text-splitters==0.3.11",
@@ -44,3 +44,6 @@ profile = "black"
 
 [tool.mypy]
 strict = true
+[tool.poetry.dependencies]
+numpy = "==1.24.4"
+pandas = "==1.5.3"
